@@ -1,3 +1,6 @@
+# Techpet Global DevOps Interns Challenge
+## Introduction
+This challenge is mearnt to serve as a minor project for the initial period of the internship, it organised in such a way as to make you understand the simple-midlevel concepts in the DevOps 
 # TechTreds Web Application
 
 This is a Flask application that lists the latest articles within the cloud-native ecosystem.
