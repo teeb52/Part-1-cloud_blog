@@ -4,9 +4,10 @@
 This is a Flask application that lists the latest articles within the cloud-native ecosystem.
 
 ## Instructions
-1. Create an optimized dockerfile to dockerize the application.
-2. Use any CICD tool of your choice, create a pipeline that will dockerize and deploy to your docker hub.
-3. Create your own Readme.md file to document the process and your choices.
+1. Fork this repo
+2. Create an optimized dockerfile to dockerize the application.
+3. Use any CICD tool of your choice, create a pipeline that will dockerize and deploy to your docker hub.
+4. Create your own Readme.md file to document the process and your choices.
 
 To run this application there are 2 steps required:
 
